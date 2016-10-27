@@ -1,0 +1,2 @@
+<jsp:include page="Adminheader.jsp"></jsp:include>
+<jsp:include page="commomfooter.jsp"></jsp:include>

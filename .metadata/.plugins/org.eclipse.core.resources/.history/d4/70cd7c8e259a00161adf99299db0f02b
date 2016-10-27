@@ -1,0 +1,9 @@
+<jsp:include page="WEB-INF/views/commonheader.jsp"></jsp:include>
+
+
+
+<a href="home">home page</a>
+
+<a href="home">home page</a>
+
+<a href="home">home page</a>

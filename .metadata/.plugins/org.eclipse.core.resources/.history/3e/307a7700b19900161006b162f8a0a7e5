@@ -1,0 +1,13 @@
+package com.MECHRONICS.Controller;
+
+@controller
+public class HomeController 
+{
+	@RequestMapping("/home")
+    public string home()
+    {
+		System.out.print("home page called");
+		return "home";
+		
+    }
+}
